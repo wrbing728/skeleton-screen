@@ -1,0 +1,11 @@
+dist/
+node_modules/
+lib/
+www/
+coverage/
+__site/
+npm-debug.log
+.idea/
+.vscode/
+.nyc_output/
+coverage/
